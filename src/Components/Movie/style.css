@@ -1,0 +1,28 @@
+.box-align{
+  display: flex !important;
+  justify-content: center;
+}
+
+.site-layout-content {
+  width: 50%;
+  margin-top: 50px;
+  min-height: 280px;
+  padding: 24px;
+  background: #fff;
+}
+.font-Style{
+  font-weight: bold;
+}
+.character-names {
+  width: 120px;
+}
+.movie-list-label{
+    margin-top: 1em;
+}
+.last-movie-name{
+    border-bottom: 1px solid #000;
+}
+.site-card-border-less-wrapper {
+  padding: 30px;
+  background: #ececec;
+}
